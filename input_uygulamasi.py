@@ -7,3 +7,5 @@ a=int(input("İlk sayiyi gir : "))
 b=int(input("İkinci sayiyi gir : "))
 karelerToplami=(a*a)+(b*b)
 print("Girdiginiz sayilarin kareleri toplami = ",karelerToplami)
+
+
